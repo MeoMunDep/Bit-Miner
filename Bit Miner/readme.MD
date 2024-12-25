@@ -42,7 +42,7 @@ To get started with the bot, follow these steps:
 }
 ```
 
-### 2. `datas.txt` 🗂️ - Token, go to the game, open devtool, wait the game load and then verify the captcha, and you got it in network tab.
+### 2. `datas.txt` 🗂️ - Token, go to the game, open devtool, wait the game load and then verify the captcha, and you got it in network tab, you will 
 
 ```txt
 ey...
@@ -70,6 +70,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `node 1`
+> To run the bot, use the following command: `cd "bit miner-main/bit miner"; node 1`
 
 🎇Enjoy!
