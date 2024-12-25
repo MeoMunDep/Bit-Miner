@@ -19,6 +19,8 @@ To get started with the bot, follow these steps:
 
 -> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
 
+-> Double click on setup.bat or setup.sh if you want to run automatically, remember to fill all the necessary data.
+
 1. **Install Dependencies and Modules:**
 
    ```
