@@ -93,7 +93,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-node 1
+cd "bit-miner-main\bit miner" && node 1
 pause
 goto MENU
 
